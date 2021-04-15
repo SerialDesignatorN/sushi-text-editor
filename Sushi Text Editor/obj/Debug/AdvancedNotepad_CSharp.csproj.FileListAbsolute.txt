@@ -1,0 +1,69 @@
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe.config
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MainForm.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Properties.Resources.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.GenerateResource.Cache
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.pdb
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.exe
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.pdb
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.GoTo_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Find_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Replace_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Run_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.RunInBrowser_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.PreviewHTMLPage_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.About_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe.config
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.exe
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.pdb
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.pdb
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.About_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Find_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.GoTo_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MainForm.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.PreviewHTMLPage_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Properties.Resources.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Replace_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.RunInBrowser_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Run_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.GenerateResource.Cache
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe.config
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.exe
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.pdb
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.pdb
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.About_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Find_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.GoTo_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MainForm.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.PreviewHTMLPage_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Properties.Resources.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Replace_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.RunInBrowser_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Run_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.GenerateResource.Cache
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csprojAssemblyReference.cache
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.About_Form.resources
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Find_Form.resources
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.GoTo_Form.resources
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MainForm.resources
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.PreviewHTMLPage_Form.resources
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Properties.Resources.resources
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Replace_Form.resources
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.RunInBrowser_Form.resources
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Run_Form.resources
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.GenerateResource.cache
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.CoreCompileInputs.cache
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Sushi Text Editor.exe.config
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Sushi Text Editor.exe
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Sushi Text Editor.pdb
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\Sushi Text Editor.exe
+E:\ongoing projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\Sushi Text Editor.pdb
